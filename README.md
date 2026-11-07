@@ -24,7 +24,7 @@ All assets in this repository were extracted directly from the original game fil
 
 ## 🔗 Official Links
 * Official Website: [katawa-shoujo.com](https://katawa-shoujo.com)
-* Download the Game: [Katawa Shoujo Downloads](https://katawa-shoujo.comdownload.php)
+* Download the Game: [Katawa Shoujo Downloads](https://www.katawa-shoujo.online/download)
 
 ## 📜 License
 The assets in this repository are distributed under the **Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)** license, as specified by Four Leaf Studios. 
