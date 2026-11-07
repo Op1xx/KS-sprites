@@ -17,10 +17,15 @@ All assets in this repository were extracted directly from the original game fil
 * This repository is created for archival, educational, and fan-usage purposes only, strictly following the original non-commercial distribution guidelines.
 
 ## 📂 Repository Structure
-* `sprites/` – Character sprites, poses, and expressions.
-* `backgrounds/` – In-game background illustrations.
-* `music/` – Original soundtrack (BGM) in audio formats.
+* `bgm/` – Background music (Original soundtrack).
+* `bgs/` – Background illustrations and scenery.
+* `event/` – Special event images and CGs.
+* `font/` – Game text fonts.
 * `sfx/` – Ambient sounds and sound effects.
+* `sprites/` – Character sprites, poses, and expressions.
+* `ui/` – User interface textures and assets.
+* `vfx/` – Visual effects graphics.
+* `video/` – In-game cinematic videos.
 
 ## 🔗 Official Links
 * Official Website: [katawa-shoujo.com](https://katawa-shoujo.com)
